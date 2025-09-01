@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋, I'm Mbali
 
-<!--
-**Acacia21-code/Acacia21-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Machine Learning Engineer** |Data Enthusiast | Remote-Ready
 
-Here are some ideas to get you started:
+##About Me
+-Currently diving deep into **Machine Learing & AI**
+-Background in **Financial Management** with a shift into tech
+-Passionate abount using data to solve **real-world problems**
+-Open to **remote internships** and **collaborations**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Tech &Tools I'm Learning
+-**Languages:** Python
+-**ML Tools:** Scikit-Learn | Pandas | Numpy | Matplotlib | Jupyter | Tensorflow | Pytorch |
+-**Version Control:** Git & Github
+-**Other Tools:** VS Code | PyCharm | Excel
+
+##Featured Projects
+-Customer Churn Prediction: Built a ML model to predict customer churn
+-Wine Quality Prediction: Classification project using scikit-learn
+
+##Let's Connect!
+-Email:**mbalisimelane633@gmail.com**
+-LinkedIn:
+
+*"Every expert was once a beginner - I'm building my journey one project at a time."*
+
