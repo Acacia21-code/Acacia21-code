@@ -20,7 +20,6 @@ Customer Churn Prediction: Built a ML model to predict customer churn
 
 Let's Connect!
 -Email:**mbalisimelane633@gmail.com**
-.LinkedIn:
 
 *"Every expert was once a beginner - I'm building my journey one project at a time."*
 
