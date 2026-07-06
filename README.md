@@ -6,7 +6,7 @@ About Me:
 Currently diving deep into **Machine Learing & AI**
 .Background in **Financial Management** with a shift into tech
 .Passionate abount using data to solve **real-world problems**
-.Open to **remote internships** and **collaborations**
+.Open to **remote and local internships** and **collaborations**
 
 Tech &Tools I'm Learning:
 **Languages:** Python
