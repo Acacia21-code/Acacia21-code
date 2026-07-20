@@ -16,7 +16,7 @@ Currently diving deep into **Machine Learning & AI**. Background in **Financial 
 - **[Wine Quality Prediction](https://github.com/Acacia21-code/wine-quality-prediction)** — Classification project using Scikit-learn
 
 ## Let's Connect!
-- LinkedIn: [your LinkedIn URL here]
+- LinkedIn: https://www.linkedin.com/in/mbali-simelane-301002386?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 
 *"Every expert was once a beginner — I'm building my journey one project at a time."*
 
