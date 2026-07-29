@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Acacia
+# Hi there, I'm Acacia
 
 **Aspiring Machine Learning Engineer | Data Enthusiast | Remote-Ready**
 
