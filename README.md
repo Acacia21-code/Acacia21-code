@@ -17,6 +17,8 @@ Currently diving deep into **Machine Learning & AI**. Background in **Financial 
 
 ## Let's Connect!
 - LinkedIn: https://www.linkedin.com/in/mbali-simelane-301002386?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+- I test my skills where results are public and measurable. 
+- Kaggle: acacia21 / Acacia21-code
 
 *"Every expert was once a beginner — I'm building my journey one project at a time."*
 
